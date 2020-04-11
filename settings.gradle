@@ -1,0 +1,2 @@
+include ':app', ':drawingview'
+rootProject.name='My Application9'
